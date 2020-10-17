@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://bryndis:bryndis123@cluster0.w8wgr.mongodb.net/servify?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
